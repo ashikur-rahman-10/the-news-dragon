@@ -1,0 +1,19 @@
+.bg-custom-secondary {
+    background-color: #f3f3f3;
+}
+nav {
+    padding: 10px 0;
+}
+.navs a {
+    text-decoration: none;
+    padding: 5px;
+    color: #706f6f;
+    font-weight: 500;
+}
+
+.navs a:focus {
+    color: black;
+}
+.secondary-text {
+    color: #706f6f;
+}

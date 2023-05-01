@@ -1,9 +1,10 @@
 import React from "react";
+import { FaHome } from "react-icons/fa";
 
 const Home = () => {
     return (
         <div>
-            <h1>Home</h1>
+            <FaHome></FaHome>
         </div>
     );
 };

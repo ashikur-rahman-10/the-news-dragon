@@ -1,0 +1,7 @@
+.side-banner {
+    background-image: url(../../../assets/bg.png);
+    background-size: contain;
+    color: white;
+    height: 500px;
+    margin-bottom: 20px;
+}
